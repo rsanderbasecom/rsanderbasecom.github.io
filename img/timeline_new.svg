@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1477px" height="360px" viewBox="0 0 1477 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 13</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-Large" transform="translate(-214, -2016)">
+            <g id="section_timeline" transform="translate(0, 1832)">
+                <g id="Group-13" transform="translate(218.5, 184)">
+                    <line x1="730.5" y1="-533" x2="737.5" y2="934" id="Line-3" stroke="#2F2F2F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" transform="translate(734, 200.5) rotate(90) translate(-734, -200.5)"></line>
+                    <path d="M361.498153,197.000844 C361.228946,233.49723 331.559843,263 295,263 C258.273064,263 228.5,233.226936 228.5,196.5 L228.504,197 Z" id="Combined-Shape" fill="#2F2F2F"></path>
+                    <path d="M881.498153,197.000844 C881.228946,233.49723 851.559843,263 815,263 C778.273064,263 748.5,233.226936 748.5,196.5 L748.504,197 Z" id="Combined-Shape-Copy-2" fill="#2F2F2F"></path>
+                    <path d="M429.498153,135.000844 C429.228946,171.49723 399.559843,201 363,201 C326.273064,201 296.5,171.226936 296.5,134.5 L296.504,135 Z" id="Combined-Shape-Copy" fill="#2F2F2F" transform="translate(362.9991, 167.75) rotate(180) translate(-362.9991, -167.75)"></path>
+                    <path d="M1153.49815,131.000844 C1153.22895,167.49723 1123.55984,197 1087,197 C1050.27306,197 1020.5,167.226936 1020.5,130.5 L1020.504,131 Z" id="Combined-Shape-Copy-3" fill="#2F2F2F" transform="translate(1086.9991, 163.75) rotate(180) translate(-1086.9991, -163.75)"></path>
+                    <text id="2014" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="259.5" y="234">2014</tspan>
+                    </text>
+                    <text id="2020" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="779.5" y="234">2020</tspan>
+                    </text>
+                    <text id="2014" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="326.5" y="183">2014</tspan>
+                    </text>
+                    <text id="2023" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="1050.5" y="179">2023</tspan>
+                    </text>
+                    <text id="Hochschulreife" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#000000">
+                        <tspan x="192.5" y="315">Hochschulreife</tspan>
+                    </text>
+                    <text id="Ausbildung-Medienges" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#000000">
+                        <tspan x="284.5" y="34">Ausbildung</tspan>
+                        <tspan x="284.5" y="75">Mediengestalter </tspan>
+                    </text>
+                    <text id="Ausbildung-Fachinfor" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#000000">
+                        <tspan x="1008.5" y="30">Ausbildung </tspan>
+                        <tspan x="1008.5" y="71">Fachinformatiker </tspan>
+                    </text>
+                    <text id="Medieninformatik" font-family="AvenirNext-Medium, Avenir Next" font-size="30" font-weight="400" fill="#000000">
+                        <tspan x="726.5" y="309">Medieninformatik</tspan>
+                    </text>
+                    <text id="CJD-Gymnasium" font-family="AvenirNext-Regular, Avenir Next" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="192.5" y="353">CJD Gymnasium</tspan>
+                    </text>
+                    <text id="Flexicon-Group" font-family="AvenirNext-Regular, Avenir Next" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="284.5" y="106">Flexicon Group</tspan>
+                    </text>
+                    <text id="basecom" font-family="AvenirNext-Regular, Avenir Next" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="1008.5" y="102">basecom</tspan>
+                    </text>
+                    <text id="Hochschule-Osnabrück" font-family="AvenirNext-Regular, Avenir Next" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="726.5" y="346">Hochschule Osnabrück</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-pt-20 scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robin Sander</title>
+    <link rel="stylesheet" href="output.css">
+</head>
+<body>
+
+   <nav class="sticky z-10 top-0 bg-[#404040] w-full h-20 flex justify-end">
+        <div class="test my-auto pr-20">  
+            <ul class="flex space-x-10 text-white">
+                <li class="active:underline"><a href="#ueber_mich" >Über mich</a></li>
+                <li class="active:underline"><a href="#skills">Skills</a></li>
+                <li class="active:underline"><a href="#werdegang">Werdegang</a></li>
+                <li class="active:underline"><a href="#kontakt">Kontakt</a></li>
+            </ul>
+        </div>
+    </nav> 
+
+    <header>
+        <div class="relative z-0">
+            <img src="/img/header.jpeg" alt="">
+            <div class="absolute bottom-24 right-24">
+                <p>
+                    Moin!<br>
+                    ich bin Robin und freue mich, dass du meine Seite besuchst.<br>
+                    Schaue dich gerne um und nimm mit mir Kontakt auf,<br>
+                    wenn du ein Design brauchst. <br>
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <section class="h-96" id="ueber_mich">
+        <div class="flex p-8 pr-0 space-x-20">
+            <div class="basis-1/2 divide-y-2">
+                <h1 class="text-2xl text-center">Tools</h1>
+                <p class="pt-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore 
+                    et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+                    Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, 
+                    consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+                    sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+                    takimata sanctus est Lorem ipsum dolor sit amet.
+                </p>
+            </div>
+
+            <div class="bg-white drop-shadow-md basis-1/2 flex justify-start">
+                <div class="grid gap-y-10 grid-cols-3 p-10 w-2/3">
+                    <img class="w-16" src="/img/icons/2993708_adobe_brand_brands_illustrator_logo_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/4373282_adobe_logo_logos_photoshop_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/2993705_affinity_brand_brands_designer_logo_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/2993662_app_brand_brands_logo_logos_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/7564187_figma_logo_brand_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/vscode.svg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="h-96" id="skills">
+        <div class="flex p-8 pl-0 space-x-20">
+
+            <div class="bg-white drop-shadow-md basis-1/2 flex justify-end">
+                <div class="grid gap-y-10 grid-cols-3 p-10 w-2/3">
+                    <img class="w-16" src="/img/icons/317755_badge_html_html5_achievement_award_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/317756_badge_css_css3_achievement_award_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/652581_code_command_develop_javascript_language_icon.svg" alt="">
+                    <img class="w-16" src="/img/icons/icons8-c++-480.svg" alt="">
+                    <img class="w-16" src="/img/icons/4373217_java_logo_logos_icon.svg" alt="">
+                    <img class="w-16" src="" alt="">
+                </div>
+            </div>
+
+            <div class="basis-1/2 divide-y-2">
+                <h1 class="text-2xl text-center">Sprachen</h1>
+                <p class="pt-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore 
+                    et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+                    Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, 
+                    consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+                    sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+                    takimata sanctus est Lorem ipsum dolor sit amet.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="" id="werdegang">
+        <h1 class="text-5xl pl-10 mb-5 font-bold">Werdegang</h1>
+        <div class="relative">
+            <img class="relative object-cover w-full h-96" src="/img/background_timeline.jpg" alt="">
+            <div class="absolute top-1/2 left-1/2 w-3/4" style="transform: translate(-50%, -50%);">
+                <img class="" src="/img/timeline_new.svg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="bg-rose-200" id="kontakt">
+        <div class="flex">
+            <div class="basis-3/4">
+                <div class="flex pl-32 pt-40">
+                    <h1 class="text -mt-20 -ml-20 font-bold text-5xl">Kontakt</h1>
+                    <form class="mr-8 pl-28" id="usrform"> 
+                        <label for="fname">Vorname:</label><br>
+                        <input class="w-52 h-8 pl-2 rounded-md" type="text" id="fname" name="fname" value=""><br>
+                        <label for="lname">Nachname:</label><br>
+                        <input class="w-52 h-8 pl-2 rounded-md" type="text" id="lname" name="lname" value=""><br>
+                        <label for="email">E-Mail:</label><br>
+                        <input class="w-52 h-8 pl-2 rounded-md" type="text" id="email" name="email" value=""><br><br>
+                        <input class="border-4 border-white px-4" type="submit" value="Submit">
+                    </form> 
+                    <textarea class="rounded-md p-5" rows="4" cols="35" name="comment" id="message" form="usrform" placeholder="Mitteilung ..."></textarea>
+                </div>
+            </div>
+        
+
+            <div class="basis-1/4">
+                <img src="/img/Robin Sander_05.jpg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="bg-[#404040] h-20">
+        <div class="flex h-20 items-center">
+            <div class="basis-1/2">
+                <ul class="flex space-x-5 pl-10 justify-start text-white">
+                    <li><a href="/dist/impressum.html">Impressum</a></li>
+                    <li><a href="/dist/datenschutz.html">Datenschutz</a></li>
+                </ul>
+            </div>
+
+            <div class="basis-1/2">
+                <div class="flex space-x-5 pr-10 justify-end">
+                    <a href="mailto:sander_robin@gmx.de"><img class="h-7 invert" src="/img/icons/8666723_mail_icon.svg" alt=""></a>
+                  <a href="https://www.linkedin.com/in/robin-sander-32328a279" target="_blank" ><img class="w-7 invert" src="/img/icons/1419829_in_linked_media_online_social_icon.svg" alt=""></a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <script src="../js/dynamic.js"></script>
+</body>
+</html>
